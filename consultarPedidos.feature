@@ -1,3 +1,4 @@
+# language: pt
 
 Funcionalidade: Consultar Pedidos
   Estou logada no site da Amazon e desejo consultar meus pedidos e detalhes do pedido

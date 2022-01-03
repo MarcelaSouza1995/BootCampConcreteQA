@@ -1,3 +1,4 @@
+# language: pt
 
 Funcionalidade: Adicionar produto ao carrinho
   Estou logada no site da Amazon e desejo adicionar ao meu carrinho determinado produto
