@@ -1,7 +1,7 @@
 # language: pt
 
 Funcionalidade: Realizar busca por produto
-  Estou no site da Amazon e desejo fazer uma busca por determinado produto
+  Estou no site da Amazon e desejo fazer buscar por determinado produto
 
   Cenário: Fazer uma busca por produto.
     Dado que estou na home
